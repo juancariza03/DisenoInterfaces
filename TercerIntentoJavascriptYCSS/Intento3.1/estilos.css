@@ -1,0 +1,26 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+table {
+  margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+td, th{
+    text-align: center;
+    padding: 5px;
+}
+
+body {
+  margin-bottom: 60px;
+  background: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-903ea3cb.jpg);
+}
+
+.container {
+  width: auto;
+  max-width: 1000px;
+  padding: 20 20px;
+  background-color: #ffe6cc;
+}
